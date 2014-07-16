@@ -1,0 +1,15 @@
+{
+  "name": "page-auth",
+  "version": "0.1.0",
+  "description": "Simple authentication middleware for page.js",
+  "author": "Florent Cailhol <florent.cailhol@gmail.com>",
+  "repository": "ooflorent/page-auth",
+  "keywords": [
+    "auth",
+    "page"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "page": "^1.3.7"
+  }
+}
